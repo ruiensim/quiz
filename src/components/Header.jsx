@@ -1,8 +1,8 @@
-import logoImg from "../assets/quiz-logo.png"
+import logoImg from "../assets/we.jpg"
 
 export default function Header(){
     return <header>
     <img src= {logoImg} alt="quizAppLogo"/>
-    <h1>React Quiz App</h1>
+    <h1>Wenni & RuiEn Love Story</h1>
     </header>
 }

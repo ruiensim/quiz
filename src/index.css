@@ -36,8 +36,8 @@ header {
 }
 
 header img {
-  width: 3rem;
-  height: 3rem;
+  width: 15rem;
+  height: 15rem;
   filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.6));
 }
 
